@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156923812026",
+    "project_id": "symmetric-lock-400220",
+    "storage_bucket": "symmetric-lock-400220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156923812026:android:d40a43aff3363295d70a83",
+        "android_client_info": {
+          "package_name": "com.example.talabat_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw3LSmKPIJeP1O-5J3KSzIUP2-pGUTT5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
